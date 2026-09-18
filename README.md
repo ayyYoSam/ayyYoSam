@@ -5,4 +5,4 @@ In memory my best friend, Vitor Alves 2005 - 2026 ...
 
 ### Skills
 
-
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,go,ts,java,)](https://skillicons.dev)
