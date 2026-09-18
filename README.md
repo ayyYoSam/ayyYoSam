@@ -5,6 +5,4 @@ In memory my best friend, Vitor Alves 2005 - 2026 ...
 
 ### Skills
 
-I use several technologies, I will mention the ones I have the most connection with and use frequently
-
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,go,ts,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,go,ts,java,gradle)](https://skillicons.dev)
